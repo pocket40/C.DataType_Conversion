@@ -17,4 +17,6 @@ int main() {
 	cout << static_cast<int>(ch) << endl;
 
 	return 0;
+	
+	// Commit 확인 메시지
 }
